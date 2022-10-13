@@ -16,7 +16,7 @@ dependencies:
   uuid: ^3.0.5
 
   # Cryptography
-  cryptography: ^2.0.5
+  cryptography: 2.0.2
 
   # Hex
   convert: ^3.0.1
